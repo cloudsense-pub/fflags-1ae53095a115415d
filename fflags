@@ -1,3 +1,4 @@
+// FVARIABLES
 [C++] DFFlagAbuseReportInExperienceStateCaptureMode
 [C++] DFFlagAcceleratorUpdateOnPropsAndValueTimeChange
 [C++] DFFlagAccessCookiesWithUrlEnabled
@@ -12074,6 +12075,9 @@
 [C++] SFFlagSimSolverMoverConstraintRootBehaviorEnablePhaseThree
 [C++] SFFlagSimSolverMoverConstraintRootBehaviorSetDefaultEnabled
 [C++] SFFlagStudioOpenWithStreaming
+
+// PC CLIENT BOOTSTRAPPER
+
 {
   "DFFlagAddMachineIDInstallerTelemetry": true,
   "DFFlagAddMoreInfoToReentrancyErrors": true,
@@ -12345,6 +12349,9 @@
   "ShowInstallSuccessPrompt": true,
   "UseCdn": true
 }
+
+// PC  Desktop Client
+
 {
   "AllowVideoPreRoll": true,
   "AndroidANRChannels": true,
